@@ -1,7 +1,5 @@
 # Chatting App Using Java Socket
 
-# Chatting App Using Java Socket
-
 ![License](https://img.shields.io/github/license/adilahsan2122/Chatting-App-Using-Java-Socket)
 ![Last Commit](https://img.shields.io/github/last-commit/adilahsan2122/Chatting-App-Using-Java-Socket)
 ![Issues](https://img.shields.io/github/issues/adilahsan2122/Chatting-App-Using-Java-Socket)
